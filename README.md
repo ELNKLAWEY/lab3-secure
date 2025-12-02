@@ -175,13 +175,8 @@ Error: unable to verify the first certificate
 
 - [x] Modified HTTPS server code (`server_https.js`)
 - [x] Certificate files (`server.cert`, `server.key`)
-- [ ] Short report (PDF) including:
-  - [ ] Screenshot of certificate creation
-  - [ ] Browser access to `https://localhost:3443`
-  - [ ] Explanation of browser warning
-  - [ ] curl test output
-  - [ ] Table: HTTP vs HTTPS differences
-- [ ] 30–60 sec demo video showing the secure server running
+
+
 
 ## Report Template
 
@@ -220,4 +215,21 @@ See `REPORT_TEMPLATE.md` for a detailed report template.
 ## License
 
 This is a lab assignment for educational purposes.
+
+
+
+## Screenshots
+
+![screenshot](screenshots/1.png)
+
+
+![screenshot](screenshots/2.png)
+
+
+
+![screenshot](screenshots/3.png)
+
+
+
+![screenshot](screenshots/4.png)
 
